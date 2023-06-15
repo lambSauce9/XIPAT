@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XIPAT/static/css/main.bb475cb5.css",
+    "main.js": "/XIPAT/static/js/main.71e0aeda.js",
+    "static/js/787.3ce4cc4d.chunk.js": "/XIPAT/static/js/787.3ce4cc4d.chunk.js",
+    "index.html": "/XIPAT/index.html",
+    "main.bb475cb5.css.map": "/XIPAT/static/css/main.bb475cb5.css.map",
+    "main.71e0aeda.js.map": "/XIPAT/static/js/main.71e0aeda.js.map",
+    "787.3ce4cc4d.chunk.js.map": "/XIPAT/static/js/787.3ce4cc4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb475cb5.css",
+    "static/js/main.71e0aeda.js"
+  ]
+}
